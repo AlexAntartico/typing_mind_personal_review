@@ -62,9 +62,13 @@ Result goes back to the LLM
 
     <img width="693" height="703" alt="Screenshot_20260709_021239" src="https://github.com/user-attachments/assets/9c1eb827-249e-4d1c-a590-a9e7fdfb47be" />
 
+12. Approximate cost and usage per TypingMind
+
+    <img width="539" height="744" alt="image" src="https://github.com/user-attachments/assets/d6ac40e4-88fd-4fcb-bade-fbb79c84bd09" />
+
 ## Conclusions
 
 At the end we achieved the same but with other product. Process is Simple and straightforward. 8 out of 10 because the process is good but nothing special.
 
-Why I be using this next week? yes, I sometimes like to take notes to save them in my obsidian setup on whatever im learning or expand on a subjet and this can help as vision is not required. If you will be doing documentation, this can help you achieve those tasks, specially for long running boring tasks. 
+Will I be using this next week? yes, I sometimes like to take notes to save them in my obsidian setup on whatever im learning or expand on a subjet and this can help as vision is not required. If you will be doing documentation, this can help you achieve those tasks, specially for long running boring tasks. 
 
