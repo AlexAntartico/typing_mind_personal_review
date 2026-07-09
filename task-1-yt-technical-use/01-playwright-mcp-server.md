@@ -66,4 +66,5 @@ Result goes back to the LLM
 
 At the end we achieved the same but with other product. Process is Simple and straightforward. 8 out of 10 because the process is good but nothing special.
 
+Why I be using this next week? yes, I sometimes like to take notes to save them in my obsidian setup on whatever im learning or expand on a subjet and this can help as vision is not required. If you will be doing documentation, this can help you achieve those tasks, specially for long running boring tasks. 
 
