@@ -17,3 +17,8 @@ Worked for: 16m 17s
 Text: 914.86 credits used
 
 This will contain the prompt used as well as the product returned as I will review this product for personal and family usage in the next 9 days.
+
+## Grading
+
+This is **my personal and obviously biased** opinion. I suggest you to pick whatever you find useful and draw your own conclusions.
+
