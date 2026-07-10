@@ -81,3 +81,11 @@ I will experiment more with this feature and see if I can stay below the usage, 
 
 I have also attached in this folder the report generated and the chat transcript
 
+## Stats for nerds
+
+Total messages: 21
+Total tokens spent: 164,334 (estimated)
+Total tokens cached: 105,344
+Estimated size: 182.79 KB
+Estimated cost: $0.1866
+Models(1): Grok 4.5 (grok-4.5)
